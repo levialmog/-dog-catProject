@@ -1,0 +1,1 @@
+target_include_directories (oop2_project_almog_levi_lee_levi PRIVATE ${CMAKE_CURRENT_LIST_DIR})
